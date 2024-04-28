@@ -1,0 +1,21 @@
+.wrappser
+{
+	width:60%;
+	margin:0 auto;
+	border:5px solid #add;
+}
+
+label{
+	font-size:20px;
+}
+.frist_name,.last_name,.email,.password,.birthday{
+	width:70%;
+	hight:20px;
+	padding:10px;
+	font-size:18px;
+}
+
+.message{
+	font-size:18px;
+	padding:10px;
+}
